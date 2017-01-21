@@ -13,6 +13,8 @@ Furthermore, CDTB is designed in a parametric manner so that the user can add hi
 
 The CDTB can be used in at least three ways. The user can employ the functions from the MATLAB command line; or he can write his own code, incorporating the CDTB functions; or he can use the Graphical User Interface (GUI) which automates the community detection and includes some data visualization options.
 
-NOTE: You can also find this toolbox, along with other interesting software packages, at http://users.auth.gr/~kehagiat/Software/
+## Note
+You can also find this toolbox, along with other interesting software packages, at http://users.auth.gr/~kehagiat/Software/
 
-INSTALLATION: Unzip to a folder of your choice, e.g., C:\ComDetTB. Then read C:\ComDetTB\Help\QuickHelp.pdf
+## Installation
+Unzip to a folder of your choice, e.g., C:\ComDetTB. Then read C:\ComDetTB\Help\QuickHelp.pdf
